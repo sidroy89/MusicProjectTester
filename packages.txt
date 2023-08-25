@@ -1,0 +1,7 @@
+python3-dev
+vamp-plugin-sdk 
+curl
+ffmpeg
+python3-numpy
+libsndfile1
+
