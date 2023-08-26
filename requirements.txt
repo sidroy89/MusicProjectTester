@@ -11,6 +11,5 @@ PyWavelets==1.4.1
 scipy==1.10.1
 streamlit==1.23.1
 wheel==0.40.0
-chord-extractor
 
 
